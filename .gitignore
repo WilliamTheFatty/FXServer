@@ -1,4 +1,6 @@
 citizen/
+cache/
+db/
 botan.dll
 cfx_curl_x86_64.dll
 citizen-resources-core.dll
