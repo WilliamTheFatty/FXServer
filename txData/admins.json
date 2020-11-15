@@ -1,0 +1,20 @@
+[
+  {
+    "name": "WilliamTheFatMan",
+    "master": true,
+    "password_hash": "$2a$11$Fa6RB/WFwR.ZZEOWhXLj2uH0Zw/qsbQxO9QwJ.mGmD57qo5sHRvc6",
+    "providers": {
+      "citizenfx": {
+        "id": "WilliamTheFatMan",
+        "data": {
+          "nameid": "https://forum.cfx.re/internal/user/224660",
+          "name": "WilliamTheFatMan",
+          "profile": "https://forum.cfx.re/u/WilliamTheFatMan",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/williamthefatman/256/101098_2.png",
+          "sub": "1a3801a284d79383e4305d9ce673f356172e6763b8874c70e1d6267326f00174"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
