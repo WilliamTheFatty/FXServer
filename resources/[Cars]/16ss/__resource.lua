@@ -9,11 +9,11 @@ files {
     'data/vehicles.meta', 
     'data/carcols.meta',
     'data/carvariations.meta',
-     'audioconfig/rb26dett_amp.dat10.rel',
-  'audioconfig/rb26dett_game.dat151.rel',
-  'audioconfig/rb26dett_sounds.dat54.rel',
-  'sfx/dlc_rb26dett/rb26dett.awc',
-  'sfx/dlc_rb26dett/rb26dett_npc.awc',
+    'audioconfig/brabus850_game.dat151.rel',
+  'audioconfig/brabus850_sounds.dat54.rel',
+  'sfx/dlc_brabus850/brabus850.awc',
+  'sfx/dlc_brabus850/brabus850_npc.awc',
+
 --    'data/contentunlocks.meta',
 }
 
@@ -22,10 +22,9 @@ data_file 'VEHICLE_LAYOUTS_FILE' 'data/vehiclelayouts.meta'
 data_file 'VEHICLE_METADATA_FILE' 'data/vehicles.meta'
 data_file 'CARCOLS_FILE' 'data/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/carvariations.meta'
-data_file 'AUDIO_SYNTHDATA' 'audioconfig/rb26dett_amp.dat'
-data_file 'AUDIO_GAMEDATA' 'audioconfig/rb26dett_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/rb26dett_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_rb26dett'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/brabus850_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/brabus850_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_brabus850'
 -- data_file 'VEHICLE_SHOP_DLC_FILE' 'data/'
 -- data_file 'CONTENT_UNLOCKING_META_FILE' 'data/contentunlocks.meta'
 
