@@ -1,6 +1,6 @@
 
 ================================================================
-======== FXServer starting - 11/14/2020, 7:57:57 PM
+======== FXServer starting - 11/14/2020, 8:12:36 PM
 ================================================================
 No such config file: permissions.cfg
 Creating script environments for _cfx_internal
@@ -66,21 +66,18 @@ Most likely you are not executing the permissions.cfg (correctly).
 Instantiated instance of script vMenuServer.MainServer.
 Started resource vMenu
 Started resource vehcontrol
-Asset brz/brz.ytd uses 46.0 MiB of physical memory.
-Asset brz/brz.ytd uses 46.0 MiB of physical memory.
-Could not make hard link for /home/williamthefatty/Desktop/GitHub/FXServer/resources//[Cars]/brz/stream//brz.ytd <-> /home/williamthefatty/Desktop/GitHub/FXServer/cache/files/brz/stream_cache/ze262ac4b3ace82c4d1f2cf3e5fe2c7ead596b848.
 Asset brz/brz.yft uses 27.5 MiB of virtual memory.
-Asset brz/brz.yft uses 27.5 MiB of virtual memory.
-Asset brz/brz_hi.yft uses 27.5 MiB of virtual memory.
+Could not make hard link for /home/williamthefatty/Desktop/GitHub/FXServer/resources//[Cars]/brz/stream//brz.yft <-> /home/williamthefatty/Desktop/GitHub/FXServer/cache/files/brz/stream_cache/ze5224506032e7276d6b13fa68b6a8765dab75c91.
+Asset brz/brz.ytd uses 46.0 MiB of physical memory.
 Asset brz/brz_hi.yft uses 27.5 MiB of virtual memory.
 Started resource brz
 Started resource skyline
 Warning: `onesync_enabled` is deprecated. Please use `onesync legacy` instead.
 Authenticating server license key...
 [txAdminClientLUA] Threads and commands set up. All Ready.
-Started map fivem-map-hipster
-Started resource fivem-map-hipster
-server thread hitch warning: timer interval of 235 milliseconds
+Started map fivem-map-skater
+Started resource fivem-map-skater
+server thread hitch warning: timer interval of 161 milliseconds
 Server license key authentication succeeded. Welcome!
 Authenticating with Nucleus...
         fff                          
@@ -90,35 +87,11 @@ cc     ff     xx   ... rr     eeeee
  ccccc ff   xx  xx ... rr      eeeee 
                                      
 Authenticated with cfx.re Nucleus: https://williamthefatman-5a9qpz.users.cfx.re/
+Connecting: :)
 -- [server notice: tebex_not_set]
 ================
 Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
 ================
 
-server thread hitch warning: timer interval of 318 milliseconds
-Connecting: :)
-server thread hitch warning: timer interval of 220 milliseconds
 Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
-server thread hitch warning: timer interval of 925 milliseconds
-server thread hitch warning: timer interval of 163 milliseconds
-server thread hitch warning: timer interval of 168 milliseconds
-server thread hitch warning: timer interval of 155 milliseconds
-server thread hitch warning: timer interval of 236 milliseconds
-server thread hitch warning: timer interval of 175 milliseconds
-server thread hitch warning: timer interval of 165 milliseconds
-sync thread hitch warning: timer interval of 115 milliseconds
-server thread hitch warning: timer interval of 326 milliseconds
-server thread hitch warning: timer interval of 161 milliseconds
-server thread hitch warning: timer interval of 162 milliseconds
-server thread hitch warning: timer interval of 160 milliseconds
-server thread hitch warning: timer interval of 513 milliseconds
-server thread hitch warning: timer interval of 240 milliseconds
-server thread hitch warning: timer interval of 175 milliseconds
-server thread hitch warning: timer interval of 297 milliseconds
-server thread hitch warning: timer interval of 691 milliseconds
-server thread hitch warning: timer interval of 156 milliseconds
-server thread hitch warning: timer interval of 270 milliseconds
-server thread hitch warning: timer interval of 257 milliseconds
-server thread hitch warning: timer interval of 407 milliseconds
-server thread hitch warning: timer interval of 250 milliseconds
-server thread hitch warning: timer interval of 202 milliseconds
+server thread hitch warning: timer interval of 478 milliseconds
