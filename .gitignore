@@ -1,4 +1,5 @@
 citizen/
+alpine/
 cache/
 db/default
 botan.dll
